@@ -1,0 +1,9 @@
+public class login {
+  private string name
+  private string pass
+
+  public void entrar()
+  public void cancelar()
+}
+
+
